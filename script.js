@@ -15,7 +15,7 @@ console.log("ciao");
 
 // }
 
-console.log("aggiungo la scritta 'fizz' al posto dei multipli di 3");
+// console.log("aggiungo la scritta 'fizz' al posto dei multipli di 3");
 
 // for (let i = 1; i <= 100; i++) {
 
