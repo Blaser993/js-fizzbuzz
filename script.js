@@ -5,9 +5,28 @@ console.log("ciao");
 // e per i multipli di 5 stampi “Buzz”.
 // Per i numeri che sono sia multipli di 3 che di 5 stampi (quindi multipli di 15) “FizzBuzz”.
 
-for (let i = 1; i <= 100; i++) {
+
+ console.log("Scrivo 100 numeri da 1 a 100");
+
+//  for (let i = 1; i <= 100; i++) {
     
+//    let number = i;
+//    console.log(number)
+
+// }
+
+console.log("aggiungo la scritta 'fizz' al posto dei multipli di 3");
+
+for (let i = 1; i <= 100; i++) {
+
     let number = i;
-    console.log(number)
+
+
+    if (number % 3 == 0) {
+
+        console.log("fizz");
+
+    }  else console.log(number):
 
 }
+
